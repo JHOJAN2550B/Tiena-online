@@ -36,3 +36,7 @@ los productos y agregar mas catidades Tambien se puede agregar otros imagenes de
 En esta parte podemos visualizar productos pedido de la tienda virtual en la cual los que tenemos acceso al cotrol 
 de ventas podemos procesar su compra en cual ya se estaria emviando su producto comprado a su destino pedido, en cual podemos visualizar
 que podemos trasladar los datos a un pdf, excel o imprimir.
+
+# Los datos de usuarios admkinistrativo
+usuario    : jhojanwmamani@iestoacora.edu.pe
+contraseña : 75851704atl
